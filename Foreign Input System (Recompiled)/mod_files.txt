@@ -1,347 +1,74 @@
-add Foreign Input System (Recompiled)\ComboPracticeArena\#ActN_SubChina_01.ar.00
-add Foreign Input System (Recompiled)\ComboPracticeArena\#ActN_SubChina_01.arl
-add Foreign Input System (Recompiled)\ComboPracticeArena\+#ActN_SubChina_01.ar.00
-add Foreign Input System (Recompiled)\ComboPracticeArena\+#ActN_SubChina_01.arl
-add Foreign Input System (Recompiled)\ComboPracticeArena\ActN_SubChina_01.ar.00
-add Foreign Input System (Recompiled)\ComboPracticeArena\ActN_SubChina_01.ar.01
-add Foreign Input System (Recompiled)\ComboPracticeArena\ActN_SubChina_01.ar.02
-add Foreign Input System (Recompiled)\ComboPracticeArena\ActN_SubChina_01.ar.03
-add Foreign Input System (Recompiled)\ComboPracticeArena\ActN_SubChina_01.arl
-add Foreign Input System (Recompiled)\ComboPracticeArena\Additional\ActN_SubChina_01\Stage-Add.pfd
-add Foreign Input System (Recompiled)\ComboPracticeArena\Packed\ActN_SubChina_01\Stage.pfd
-add Foreign Input System (Recompiled)\Font\1.0.2\Languages\English\+WorldMap.ar.00
-add Foreign Input System (Recompiled)\Font\1.0.2\Languages\English\+WorldMap.arl
-add Foreign Input System (Recompiled)\Font\1.0\Languages\English\+WorldMap.ar.00
-add Foreign Input System (Recompiled)\Font\1.0\Languages\English\+WorldMap.arl
-add Foreign Input System (Recompiled)\Font\Common\+EvilActionCommon.ar.00
-add Foreign Input System (Recompiled)\Font\Common\+EvilActionCommon.arl
-add Foreign Input System (Recompiled)\Font\Common\+Town_Africa_Common.ar.00
-add Foreign Input System (Recompiled)\Font\Common\+Town_Africa_Common.arl
-add Foreign Input System (Recompiled)\Font\Common\+Town_China_Common.ar.00
-add Foreign Input System (Recompiled)\Font\Common\+Town_China_Common.arl
-add Foreign Input System (Recompiled)\Font\Common\+Town_EggManBase_Common.ar.00
-add Foreign Input System (Recompiled)\Font\Common\+Town_EggManBase_Common.arl
-add Foreign Input System (Recompiled)\Font\Common\+Town_EuropeanCity_Common.ar.00
-add Foreign Input System (Recompiled)\Font\Common\+Town_EuropeanCity_Common.arl
-add Foreign Input System (Recompiled)\Font\Common\+Town_Mykonos_Common.ar.00
-add Foreign Input System (Recompiled)\Font\Common\+Town_Mykonos_Common.arl
-add Foreign Input System (Recompiled)\Font\Common\+Town_NYCity_Common.ar.00
-add Foreign Input System (Recompiled)\Font\Common\+Town_NYCity_Common.arl
-add Foreign Input System (Recompiled)\Font\Common\+Town_PetraCapital_Common.ar.00
-add Foreign Input System (Recompiled)\Font\Common\+Town_PetraCapital_Common.arl
-add Foreign Input System (Recompiled)\Font\Common\+Town_Snow_Common.ar.00
-add Foreign Input System (Recompiled)\Font\Common\+Town_Snow_Common.arl
-add Foreign Input System (Recompiled)\Font\Common\+Town_SouthEastAsia_Common.ar.00
-add Foreign Input System (Recompiled)\Font\Common\+Town_SouthEastAsia_Common.arl
-add Foreign Input System (Recompiled)\Gameplay\CTO\V1\+#Application.ar.00
-add Foreign Input System (Recompiled)\Gameplay\CTO\V1\+#Application.arl
-add Foreign Input System (Recompiled)\Gameplay\CTO\V2\+#Application.ar.00
-add Foreign Input System (Recompiled)\Gameplay\CTO\V2\+#Application.arl
-add Foreign Input System (Recompiled)\Gameplay\CTO\V3\+#Application.ar.00
-add Foreign Input System (Recompiled)\Gameplay\CTO\V3\+#Application.arl
-add Foreign Input System (Recompiled)\Gameplay\CTO\V3\+#EvilSonic.ar.00
-add Foreign Input System (Recompiled)\Gameplay\CTO\V3\+#EvilSonic.arl
-add Foreign Input System (Recompiled)\Gameplay\CTO\V3\+EvilSonic.ar.00
-add Foreign Input System (Recompiled)\Gameplay\CTO\V3\+EvilSonic.arl
-add Foreign Input System (Recompiled)\Gameplay\CTO\V3_Phase2\+#Application.ar.00
-add Foreign Input System (Recompiled)\Gameplay\CTO\V3_Phase2\+#Application.arl
-add Foreign Input System (Recompiled)\Gameplay\CTO\V3_Phase2\+#EvilSonic.ar.00
-add Foreign Input System (Recompiled)\Gameplay\CTO\V3_Phase2\+#EvilSonic.arl
-add Foreign Input System (Recompiled)\Gameplay\CTO\V3_Phase2\+EvilSonic.ar.00
-add Foreign Input System (Recompiled)\Gameplay\CTO\V3_Phase2\+EvilSonic.arl
-add Foreign Input System (Recompiled)\Gameplay\FIS\V1\+#Application.ar.00
-add Foreign Input System (Recompiled)\Gameplay\FIS\V1\+#Application.arl
-add Foreign Input System (Recompiled)\Gameplay\FIS\V2\+#Application.ar.00
-add Foreign Input System (Recompiled)\Gameplay\FIS\V2\+#Application.arl
-add Foreign Input System (Recompiled)\Gameplay\FIS\V3\+#Application.ar.00
-add Foreign Input System (Recompiled)\Gameplay\FIS\V3\+#Application.arl
-add Foreign Input System (Recompiled)\Gameplay\FIS\V3\+#EvilSonic.ar.00
-add Foreign Input System (Recompiled)\Gameplay\FIS\V3\+#EvilSonic.arl
-add Foreign Input System (Recompiled)\Gameplay\FIS\V3\+EvilSonic.ar.00
-add Foreign Input System (Recompiled)\Gameplay\FIS\V3\+EvilSonic.arl
-add Foreign Input System (Recompiled)\Gameplay\FIS\V3_Phase2\+#Application.ar.00
-add Foreign Input System (Recompiled)\Gameplay\FIS\V3_Phase2\+#Application.arl
-add Foreign Input System (Recompiled)\Gameplay\FIS\V3_Phase2\+#EvilSonic.ar.00
-add Foreign Input System (Recompiled)\Gameplay\FIS\V3_Phase2\+#EvilSonic.arl
-add Foreign Input System (Recompiled)\Gameplay\FIS\V3_Phase2\+EvilSonic.ar.00
-add Foreign Input System (Recompiled)\Gameplay\FIS\V3_Phase2\+EvilSonic.arl
-add Foreign Input System (Recompiled)\HarderEnemies\Expert\+#BossDarkGaiaMoray.ar.00
-add Foreign Input System (Recompiled)\HarderEnemies\Expert\+#BossDarkGaiaMoray.arl
-add Foreign Input System (Recompiled)\HarderEnemies\Expert\+#BossEggDragoon.ar.00
-add Foreign Input System (Recompiled)\HarderEnemies\Expert\+#BossEggDragoon.arl
-add Foreign Input System (Recompiled)\HarderEnemies\Expert\+#BossPetra.ar.00
-add Foreign Input System (Recompiled)\HarderEnemies\Expert\+#BossPetra.arl
-add Foreign Input System (Recompiled)\HarderEnemies\Expert\+#BossPhoenix.ar.00
-add Foreign Input System (Recompiled)\HarderEnemies\Expert\+#BossPhoenix.arl
-add Foreign Input System (Recompiled)\HarderEnemies\Expert\+#EvilActionCommon.ar.00
-add Foreign Input System (Recompiled)\HarderEnemies\Expert\+#EvilActionCommon.arl
-add Foreign Input System (Recompiled)\HarderEnemies\Expert\+#EvilEnemyBigMother.ar.00
-add Foreign Input System (Recompiled)\HarderEnemies\Expert\+#EvilEnemyBigMother.arl
-add Foreign Input System (Recompiled)\HarderEnemies\Expert\+#EvilEnemyChibiFighter.ar.00
-add Foreign Input System (Recompiled)\HarderEnemies\Expert\+#EvilEnemyChibiFighter.arl
-add Foreign Input System (Recompiled)\HarderEnemies\Expert\+#EvilEnemyEggFighter.ar.00
-add Foreign Input System (Recompiled)\HarderEnemies\Expert\+#EvilEnemyEggFighter.arl
-add Foreign Input System (Recompiled)\HarderEnemies\Expert\+#EvilEnemyKillerBee.ar.00
-add Foreign Input System (Recompiled)\HarderEnemies\Expert\+#EvilEnemyKillerBee.arl
-add Foreign Input System (Recompiled)\HarderEnemies\Expert\+#EvilEnemyMaster.ar.00
-add Foreign Input System (Recompiled)\HarderEnemies\Expert\+#EvilEnemyMaster.arl
-add Foreign Input System (Recompiled)\HarderEnemies\Expert\+#EvilEnemyMoleel.ar.00
-add Foreign Input System (Recompiled)\HarderEnemies\Expert\+#EvilEnemyMoleel.arl
-add Foreign Input System (Recompiled)\HarderEnemies\Expert\+#EvilEnemyNightmareR.ar.00
-add Foreign Input System (Recompiled)\HarderEnemies\Expert\+#EvilEnemyNightmareR.arl
-add Foreign Input System (Recompiled)\HarderEnemies\Expert\+#EvilEnemyReckless.ar.00
-add Foreign Input System (Recompiled)\HarderEnemies\Expert\+#EvilEnemyReckless.arl
-add Foreign Input System (Recompiled)\HarderEnemies\Expert\+#EvilEnemySpooky.ar.00
-add Foreign Input System (Recompiled)\HarderEnemies\Expert\+#EvilEnemySpooky.arl
-add Foreign Input System (Recompiled)\HarderEnemies\Expert\+#EvilEnemyTitan.ar.00
-add Foreign Input System (Recompiled)\HarderEnemies\Expert\+#EvilEnemyTitan.arl
-add Foreign Input System (Recompiled)\HarderEnemies\Expert\work\Act_EggmanLand\Evil_Enemy.prm.xml
-add Foreign Input System (Recompiled)\HarderEnemies\Expert\work\Act_EggmanLand\EvilEnemyEggFighterC.chr.xml
-add Foreign Input System (Recompiled)\HarderEnemies\Expert\work\Act_EggmanLand\EvilEnemyEggFighterG.chr.xml
-add Foreign Input System (Recompiled)\HarderEnemies\Expert\work\Act_EggmanLand\EvilEnemyEggFighterK.chr.xml
-add Foreign Input System (Recompiled)\HarderEnemies\Expert\work\Act_EggmanLand\EvilEnemyEggFighterL.chr.xml
-add Foreign Input System (Recompiled)\HarderEnemies\Expert\work\Act_EggmanLand\EvilEnemyEggFighterR.chr.xml
-add Foreign Input System (Recompiled)\HarderEnemies\Expert\work\Act_EggmanLand\EvilEnemyEggFighterS.chr.xml
-add Foreign Input System (Recompiled)\HarderEnemies\Expert\work\Act_EggmanLand\EvilEnemyEggFighterST.chr.xml
-add Foreign Input System (Recompiled)\HarderEnemies\Expert\work\Act_EggmanLand\EvilEnemyEggFighterW.chr.xml
-add Foreign Input System (Recompiled)\HarderEnemies\Expert\work\Act_EggmanLand\EvilEnemyMasterCure.chr.xml
-add Foreign Input System (Recompiled)\HarderEnemies\Expert\work\Act_EggmanLand\EvilEnemyMasterFire.chr.xml
-add Foreign Input System (Recompiled)\HarderEnemies\Expert\work\Act_EggmanLand\EvilEnemyMasterLightning.chr.xml
-add Foreign Input System (Recompiled)\HarderEnemies\Expert\work\Act_EggmanLand\EvilEnemyMasterPower.chr.xml
-add Foreign Input System (Recompiled)\HarderEnemies\Expert\work\Act_EggmanLand\EvilEnemyMasterSpooky.chr.xml
-add Foreign Input System (Recompiled)\HarderEnemies\Expert\work\Act_EggmanLand\EvilEnemyTitan.chr.xml
-add Foreign Input System (Recompiled)\HarderEnemies\Expert\work\ActN_AfricaEvil\Evil_Enemy.prm.xml
-add Foreign Input System (Recompiled)\HarderEnemies\Expert\work\ActN_BeachEvil\area03_enemyset.set.xml
-add Foreign Input System (Recompiled)\HarderEnemies\Expert\work\ActN_BeachEvil\Evil_Enemy.prm.xml
-add Foreign Input System (Recompiled)\HarderEnemies\Expert\work\ActN_ChinaEvil\area10_enemyset.set.xml
-add Foreign Input System (Recompiled)\HarderEnemies\Expert\work\ActN_ChinaEvil\area17_enemyset.set.xml
-add Foreign Input System (Recompiled)\HarderEnemies\Expert\work\ActN_ChinaEvil\Evil_Enemy.prm.xml
-add Foreign Input System (Recompiled)\HarderEnemies\Expert\work\ActN_EUEvil\Evil_Enemy.prm.xml
-add Foreign Input System (Recompiled)\HarderEnemies\Expert\work\ActN_MykonosEvil\Evil_Enemy.prm.xml
-add Foreign Input System (Recompiled)\HarderEnemies\Expert\work\ActN_NYEvil\area02_enemyset.set.xml
-add Foreign Input System (Recompiled)\HarderEnemies\Expert\work\ActN_NYEvil\area03_enemyset.set.xml
-add Foreign Input System (Recompiled)\HarderEnemies\Expert\work\ActN_NYEvil\area06_enemyset.set.xml
-add Foreign Input System (Recompiled)\HarderEnemies\Expert\work\ActN_NYEvil\Evil_Enemy.prm.xml
-add Foreign Input System (Recompiled)\HarderEnemies\Expert\work\ActN_PetraEvil\Evil_Enemy.prm.xml
-add Foreign Input System (Recompiled)\HarderEnemies\Expert\work\ActN_SnowEvil\area12_enemyset.set.xml
-add Foreign Input System (Recompiled)\HarderEnemies\Expert\work\ActN_SnowEvil\area13_enemyset.set.xml
-add Foreign Input System (Recompiled)\HarderEnemies\Expert\work\ActN_SnowEvil\area14_enemyset.set.xml
-add Foreign Input System (Recompiled)\HarderEnemies\Expert\work\ActN_SnowEvil\Evil_Enemy.prm.xml
-add Foreign Input System (Recompiled)\HarderEnemies\Expert\work\ActN_SubAfrica_01\Evil_Enemy.prm.xml
-add Foreign Input System (Recompiled)\HarderEnemies\Expert\work\ActN_SubBeach_01\Evil_Enemy.prm.xml
-add Foreign Input System (Recompiled)\HarderEnemies\Expert\work\ActN_SubChina_01\area02_enemyset.set.xml
-add Foreign Input System (Recompiled)\HarderEnemies\Expert\work\ActN_SubChina_01\Evil_Enemy.prm.xml
-add Foreign Input System (Recompiled)\HarderEnemies\Expert\work\ActN_SubMykonos_01\Evil_Enemy.prm.xml
-add Foreign Input System (Recompiled)\HarderEnemies\Hard\+#EvilActionCommon.ar.00
-add Foreign Input System (Recompiled)\HarderEnemies\Hard\+#EvilActionCommon.arl
-add Foreign Input System (Recompiled)\HarderEnemies\Hard\+#EvilEnemyBigMother.ar.00
-add Foreign Input System (Recompiled)\HarderEnemies\Hard\+#EvilEnemyBigMother.arl
-add Foreign Input System (Recompiled)\HarderEnemies\Hard\+#EvilEnemyChibiFighter.ar.00
-add Foreign Input System (Recompiled)\HarderEnemies\Hard\+#EvilEnemyChibiFighter.arl
-add Foreign Input System (Recompiled)\HarderEnemies\Hard\+#EvilEnemyEggFighter.ar.00
-add Foreign Input System (Recompiled)\HarderEnemies\Hard\+#EvilEnemyEggFighter.arl
-add Foreign Input System (Recompiled)\HarderEnemies\Hard\+#EvilEnemyKillerBee.ar.00
-add Foreign Input System (Recompiled)\HarderEnemies\Hard\+#EvilEnemyKillerBee.arl
-add Foreign Input System (Recompiled)\HarderEnemies\Hard\+#EvilEnemyMaster.ar.00
-add Foreign Input System (Recompiled)\HarderEnemies\Hard\+#EvilEnemyMaster.arl
-add Foreign Input System (Recompiled)\HarderEnemies\Hard\+#EvilEnemyMoleel.ar.00
-add Foreign Input System (Recompiled)\HarderEnemies\Hard\+#EvilEnemyMoleel.arl
-add Foreign Input System (Recompiled)\HarderEnemies\Hard\+#EvilEnemyNightmareR.ar.00
-add Foreign Input System (Recompiled)\HarderEnemies\Hard\+#EvilEnemyNightmareR.arl
-add Foreign Input System (Recompiled)\HarderEnemies\Hard\+#EvilEnemyReckless.ar.00
-add Foreign Input System (Recompiled)\HarderEnemies\Hard\+#EvilEnemyReckless.arl
-add Foreign Input System (Recompiled)\HarderEnemies\Hard\+#EvilEnemySpooky.ar.00
-add Foreign Input System (Recompiled)\HarderEnemies\Hard\+#EvilEnemySpooky.arl
-add Foreign Input System (Recompiled)\HarderEnemies\Hard\+#EvilEnemyTitan.ar.00
-add Foreign Input System (Recompiled)\HarderEnemies\Hard\+#EvilEnemyTitan.arl
-add Foreign Input System (Recompiled)\HarderEnemies\Hard\work\Act_EggmanLand\Evil_Enemy.prm.xml
-add Foreign Input System (Recompiled)\HarderEnemies\Hard\work\Act_EggmanLand\EvilEnemyEggFighterC.chr.xml
-add Foreign Input System (Recompiled)\HarderEnemies\Hard\work\Act_EggmanLand\EvilEnemyEggFighterG.chr.xml
-add Foreign Input System (Recompiled)\HarderEnemies\Hard\work\Act_EggmanLand\EvilEnemyEggFighterK.chr.xml
-add Foreign Input System (Recompiled)\HarderEnemies\Hard\work\Act_EggmanLand\EvilEnemyEggFighterL.chr.xml
-add Foreign Input System (Recompiled)\HarderEnemies\Hard\work\Act_EggmanLand\EvilEnemyEggFighterR.chr.xml
-add Foreign Input System (Recompiled)\HarderEnemies\Hard\work\Act_EggmanLand\EvilEnemyEggFighterS.chr.xml
-add Foreign Input System (Recompiled)\HarderEnemies\Hard\work\Act_EggmanLand\EvilEnemyEggFighterST.chr.xml
-add Foreign Input System (Recompiled)\HarderEnemies\Hard\work\Act_EggmanLand\EvilEnemyEggFighterW.chr.xml
-add Foreign Input System (Recompiled)\HarderEnemies\Hard\work\Act_EggmanLand\EvilEnemyMasterCure.chr.xml
-add Foreign Input System (Recompiled)\HarderEnemies\Hard\work\Act_EggmanLand\EvilEnemyMasterFire.chr.xml
-add Foreign Input System (Recompiled)\HarderEnemies\Hard\work\Act_EggmanLand\EvilEnemyMasterLightning.chr.xml
-add Foreign Input System (Recompiled)\HarderEnemies\Hard\work\Act_EggmanLand\EvilEnemyMasterPower.chr.xml
-add Foreign Input System (Recompiled)\HarderEnemies\Hard\work\Act_EggmanLand\EvilEnemyMasterSpooky.chr.xml
-add Foreign Input System (Recompiled)\HarderEnemies\Hard\work\Act_EggmanLand\EvilEnemyTitan.chr.xml
-add Foreign Input System (Recompiled)\HarderEnemies\Hard\work\ActN_AfricaEvil\Evil_Enemy.prm.xml
-add Foreign Input System (Recompiled)\HarderEnemies\Hard\work\ActN_BeachEvil\area03_enemyset.set.xml
-add Foreign Input System (Recompiled)\HarderEnemies\Hard\work\ActN_BeachEvil\Evil_Enemy.prm.xml
-add Foreign Input System (Recompiled)\HarderEnemies\Hard\work\ActN_ChinaEvil\area10_enemyset.set.xml
-add Foreign Input System (Recompiled)\HarderEnemies\Hard\work\ActN_ChinaEvil\area17_enemyset.set.xml
-add Foreign Input System (Recompiled)\HarderEnemies\Hard\work\ActN_ChinaEvil\Evil_Enemy.prm.xml
-add Foreign Input System (Recompiled)\HarderEnemies\Hard\work\ActN_EUEvil\Evil_Enemy.prm.xml
-add Foreign Input System (Recompiled)\HarderEnemies\Hard\work\ActN_MykonosEvil\Evil_Enemy.prm.xml
-add Foreign Input System (Recompiled)\HarderEnemies\Hard\work\ActN_NYEvil\area02_enemyset.set.xml
-add Foreign Input System (Recompiled)\HarderEnemies\Hard\work\ActN_NYEvil\area03_enemyset.set.xml
-add Foreign Input System (Recompiled)\HarderEnemies\Hard\work\ActN_NYEvil\area06_enemyset.set.xml
-add Foreign Input System (Recompiled)\HarderEnemies\Hard\work\ActN_NYEvil\Evil_Enemy.prm.xml
-add Foreign Input System (Recompiled)\HarderEnemies\Hard\work\ActN_PetraEvil\Evil_Enemy.prm.xml
-add Foreign Input System (Recompiled)\HarderEnemies\Hard\work\ActN_SnowEvil\area12_enemyset.set.xml
-add Foreign Input System (Recompiled)\HarderEnemies\Hard\work\ActN_SnowEvil\area13_enemyset.set.xml
-add Foreign Input System (Recompiled)\HarderEnemies\Hard\work\ActN_SnowEvil\area14_enemyset.set.xml
-add Foreign Input System (Recompiled)\HarderEnemies\Hard\work\ActN_SnowEvil\Evil_Enemy.prm.xml
-add Foreign Input System (Recompiled)\HarderEnemies\Hard\work\ActN_SubAfrica_01\Evil_Enemy.prm.xml
-add Foreign Input System (Recompiled)\HarderEnemies\Hard\work\ActN_SubBeach_01\Evil_Enemy.prm.xml
-add Foreign Input System (Recompiled)\HarderEnemies\Hard\work\ActN_SubChina_01\area02_enemyset.set.xml
-add Foreign Input System (Recompiled)\HarderEnemies\Hard\work\ActN_SubChina_01\Evil_Enemy.prm.xml
-add Foreign Input System (Recompiled)\HarderEnemies\Hard\work\ActN_SubMykonos_01\Evil_Enemy.prm.xml
-add Foreign Input System (Recompiled)\HE1CompressionTool.zip
-add Foreign Input System (Recompiled)\ImprovedComp\V2\+#Application.ar.00
-add Foreign Input System (Recompiled)\ImprovedComp\V2\+#Application.arl
-add Foreign Input System (Recompiled)\ImprovedComp\V3 (CTO)\+#Application.ar.00
-add Foreign Input System (Recompiled)\ImprovedComp\V3 (CTO)\+#Application.arl
-add Foreign Input System (Recompiled)\ImprovedComp\V3 P2 (CTO)\+#Application.ar.00
-add Foreign Input System (Recompiled)\ImprovedComp\V3 P2 (CTO)\+#Application.arl
-add Foreign Input System (Recompiled)\ImprovedComp\V3 P2\+#Application.ar.00
-add Foreign Input System (Recompiled)\ImprovedComp\V3 P2\+#Application.arl
-add Foreign Input System (Recompiled)\ImprovedComp\V3\+#Application.ar.00
-add Foreign Input System (Recompiled)\ImprovedComp\V3\+#Application.arl
-add Foreign Input System (Recompiled)\Loading\logo_sonicteam.dds
-add Foreign Input System (Recompiled)\mod.json
-add Foreign Input System (Recompiled)\Movement\+#EvilSonic.ar.00
-add Foreign Input System (Recompiled)\Movement\+#EvilSonic.arl
-add Foreign Input System (Recompiled)\Movement\+#SystemCommon.ar.00
-add Foreign Input System (Recompiled)\Movement\+#SystemCommon.arl
-add Foreign Input System (Recompiled)\Score\Enhanced\+#EvilActionCommon.ar.00
-add Foreign Input System (Recompiled)\Score\Enhanced\+#EvilActionCommon.arl
-add Foreign Input System (Recompiled)\Score\Enhanced\+#EvilActionCommon\Evil_Enemy.prm.xml
-add Foreign Input System (Recompiled)\Score\Expert\+#Application.ar.00
-add Foreign Input System (Recompiled)\Score\Expert\+#Application.arl
-add Foreign Input System (Recompiled)\Score\Expert\+#BossDarkGaiaMoray.ar.00
-add Foreign Input System (Recompiled)\Score\Expert\+#BossDarkGaiaMoray.arl
-add Foreign Input System (Recompiled)\Score\Expert\+#BossEggDragoon.ar.00
-add Foreign Input System (Recompiled)\Score\Expert\+#BossEggDragoon.arl
-add Foreign Input System (Recompiled)\Score\Expert\+#BossPetra.ar.00
-add Foreign Input System (Recompiled)\Score\Expert\+#BossPetra.arl
-add Foreign Input System (Recompiled)\Score\Expert\+#BossPhoenix.ar.00
-add Foreign Input System (Recompiled)\Score\Expert\+#BossPhoenix.arl
-add Foreign Input System (Recompiled)\Score\Expert\+#EvilActionCommon.ar.00
-add Foreign Input System (Recompiled)\Score\Expert\+#EvilActionCommon.arl
-add Foreign Input System (Recompiled)\Score\Expert\+#EvilEnemyBigMother.ar.00
-add Foreign Input System (Recompiled)\Score\Expert\+#EvilEnemyBigMother.arl
-add Foreign Input System (Recompiled)\Score\Expert\+#EvilEnemyChibiFighter.ar.00
-add Foreign Input System (Recompiled)\Score\Expert\+#EvilEnemyChibiFighter.arl
-add Foreign Input System (Recompiled)\Score\Expert\+#EvilEnemyEggFighter.ar.00
-add Foreign Input System (Recompiled)\Score\Expert\+#EvilEnemyEggFighter.arl
-add Foreign Input System (Recompiled)\Score\Expert\+#EvilEnemyKillerBee.ar.00
-add Foreign Input System (Recompiled)\Score\Expert\+#EvilEnemyKillerBee.arl
-add Foreign Input System (Recompiled)\Score\Expert\+#EvilEnemyMaster.ar.00
-add Foreign Input System (Recompiled)\Score\Expert\+#EvilEnemyMaster.arl
-add Foreign Input System (Recompiled)\Score\Expert\+#EvilEnemyMoleel.ar.00
-add Foreign Input System (Recompiled)\Score\Expert\+#EvilEnemyMoleel.arl
-add Foreign Input System (Recompiled)\Score\Expert\+#EvilEnemyNightmareR.ar.00
-add Foreign Input System (Recompiled)\Score\Expert\+#EvilEnemyNightmareR.arl
-add Foreign Input System (Recompiled)\Score\Expert\+#EvilEnemyReckless.ar.00
-add Foreign Input System (Recompiled)\Score\Expert\+#EvilEnemyReckless.arl
-add Foreign Input System (Recompiled)\Score\Expert\+#EvilEnemySpooky.ar.00
-add Foreign Input System (Recompiled)\Score\Expert\+#EvilEnemySpooky.arl
-add Foreign Input System (Recompiled)\Score\Expert\+#EvilEnemyTitan.ar.00
-add Foreign Input System (Recompiled)\Score\Expert\+#EvilEnemyTitan.arl
-add Foreign Input System (Recompiled)\Score\Expert\work\Act_EggmanLand\Evil_Enemy.prm.xml
-add Foreign Input System (Recompiled)\Score\Expert\work\Act_EggmanLand\EvilEnemyEggFighterC.chr.xml
-add Foreign Input System (Recompiled)\Score\Expert\work\Act_EggmanLand\EvilEnemyEggFighterG.chr.xml
-add Foreign Input System (Recompiled)\Score\Expert\work\Act_EggmanLand\EvilEnemyEggFighterK.chr.xml
-add Foreign Input System (Recompiled)\Score\Expert\work\Act_EggmanLand\EvilEnemyEggFighterL.chr.xml
-add Foreign Input System (Recompiled)\Score\Expert\work\Act_EggmanLand\EvilEnemyEggFighterR.chr.xml
-add Foreign Input System (Recompiled)\Score\Expert\work\Act_EggmanLand\EvilEnemyEggFighterS.chr.xml
-add Foreign Input System (Recompiled)\Score\Expert\work\Act_EggmanLand\EvilEnemyEggFighterST.chr.xml
-add Foreign Input System (Recompiled)\Score\Expert\work\Act_EggmanLand\EvilEnemyEggFighterW.chr.xml
-add Foreign Input System (Recompiled)\Score\Expert\work\Act_EggmanLand\EvilEnemyMasterCure.chr.xml
-add Foreign Input System (Recompiled)\Score\Expert\work\Act_EggmanLand\EvilEnemyMasterFire.chr.xml
-add Foreign Input System (Recompiled)\Score\Expert\work\Act_EggmanLand\EvilEnemyMasterLightning.chr.xml
-add Foreign Input System (Recompiled)\Score\Expert\work\Act_EggmanLand\EvilEnemyMasterPower.chr.xml
-add Foreign Input System (Recompiled)\Score\Expert\work\Act_EggmanLand\EvilEnemyMasterSpooky.chr.xml
-add Foreign Input System (Recompiled)\Score\Expert\work\Act_EggmanLand\EvilEnemyTitan.chr.xml
-add Foreign Input System (Recompiled)\Score\Expert\work\ActN_AfricaEvil\Evil_Enemy.prm.xml
-add Foreign Input System (Recompiled)\Score\Expert\work\ActN_BeachEvil\area03_enemyset.set.xml
-add Foreign Input System (Recompiled)\Score\Expert\work\ActN_BeachEvil\Evil_Enemy.prm.xml
-add Foreign Input System (Recompiled)\Score\Expert\work\ActN_ChinaEvil\area10_enemyset.set.xml
-add Foreign Input System (Recompiled)\Score\Expert\work\ActN_ChinaEvil\area17_enemyset.set.xml
-add Foreign Input System (Recompiled)\Score\Expert\work\ActN_ChinaEvil\Evil_Enemy.prm.xml
-add Foreign Input System (Recompiled)\Score\Expert\work\ActN_EUEvil\Evil_Enemy.prm.xml
-add Foreign Input System (Recompiled)\Score\Expert\work\ActN_MykonosEvil\Evil_Enemy.prm.xml
-add Foreign Input System (Recompiled)\Score\Expert\work\ActN_NYEvil\area02_enemyset.set.xml
-add Foreign Input System (Recompiled)\Score\Expert\work\ActN_NYEvil\area03_enemyset.set.xml
-add Foreign Input System (Recompiled)\Score\Expert\work\ActN_NYEvil\area06_enemyset.set.xml
-add Foreign Input System (Recompiled)\Score\Expert\work\ActN_NYEvil\Evil_Enemy.prm.xml
-add Foreign Input System (Recompiled)\Score\Expert\work\ActN_PetraEvil\Evil_Enemy.prm.xml
-add Foreign Input System (Recompiled)\Score\Expert\work\ActN_SnowEvil\area12_enemyset.set.xml
-add Foreign Input System (Recompiled)\Score\Expert\work\ActN_SnowEvil\area13_enemyset.set.xml
-add Foreign Input System (Recompiled)\Score\Expert\work\ActN_SnowEvil\area14_enemyset.set.xml
-add Foreign Input System (Recompiled)\Score\Expert\work\ActN_SnowEvil\Evil_Enemy.prm.xml
-add Foreign Input System (Recompiled)\Score\Expert\work\ActN_SubAfrica_01\Evil_Enemy.prm.xml
-add Foreign Input System (Recompiled)\Score\Expert\work\ActN_SubBeach_01\Evil_Enemy.prm.xml
-add Foreign Input System (Recompiled)\Score\Expert\work\ActN_SubChina_01\area02_enemyset.set.xml
-add Foreign Input System (Recompiled)\Score\Expert\work\ActN_SubChina_01\Evil_Enemy.prm.xml
-add Foreign Input System (Recompiled)\Score\Expert\work\ActN_SubMykonos_01\Evil_Enemy.prm.xml
-add Foreign Input System (Recompiled)\Score\Expert\work\ActN_SubMykonos_03\Evil_Enemy.prm.xml
-add Foreign Input System (Recompiled)\Score\Expert\work\ActN_SubMykonos_04\Evil_Enemy.prm.xml
-add Foreign Input System (Recompiled)\Score\Expert\work\ActN_SubPetra_03\Evil_Enemy.prm.xml
-add Foreign Input System (Recompiled)\Score\Hard\+#Application.ar.00
-add Foreign Input System (Recompiled)\Score\Hard\+#Application.arl
-add Foreign Input System (Recompiled)\Score\Hard\+#EvilActionCommon.ar.00
-add Foreign Input System (Recompiled)\Score\Hard\+#EvilActionCommon.arl
-add Foreign Input System (Recompiled)\Score\Hard\+#EvilEnemyBigMother.ar.00
-add Foreign Input System (Recompiled)\Score\Hard\+#EvilEnemyBigMother.arl
-add Foreign Input System (Recompiled)\Score\Hard\+#EvilEnemyChibiFighter.ar.00
-add Foreign Input System (Recompiled)\Score\Hard\+#EvilEnemyChibiFighter.arl
-add Foreign Input System (Recompiled)\Score\Hard\+#EvilEnemyEggFighter.ar.00
-add Foreign Input System (Recompiled)\Score\Hard\+#EvilEnemyEggFighter.arl
-add Foreign Input System (Recompiled)\Score\Hard\+#EvilEnemyKillerBee.ar.00
-add Foreign Input System (Recompiled)\Score\Hard\+#EvilEnemyKillerBee.arl
-add Foreign Input System (Recompiled)\Score\Hard\+#EvilEnemyMaster.ar.00
-add Foreign Input System (Recompiled)\Score\Hard\+#EvilEnemyMaster.arl
-add Foreign Input System (Recompiled)\Score\Hard\+#EvilEnemyMoleel.ar.00
-add Foreign Input System (Recompiled)\Score\Hard\+#EvilEnemyMoleel.arl
-add Foreign Input System (Recompiled)\Score\Hard\+#EvilEnemyNightmareR.ar.00
-add Foreign Input System (Recompiled)\Score\Hard\+#EvilEnemyNightmareR.arl
-add Foreign Input System (Recompiled)\Score\Hard\+#EvilEnemyReckless.ar.00
-add Foreign Input System (Recompiled)\Score\Hard\+#EvilEnemyReckless.arl
-add Foreign Input System (Recompiled)\Score\Hard\+#EvilEnemySpooky.ar.00
-add Foreign Input System (Recompiled)\Score\Hard\+#EvilEnemySpooky.arl
-add Foreign Input System (Recompiled)\Score\Hard\+#EvilEnemyTitan.ar.00
-add Foreign Input System (Recompiled)\Score\Hard\+#EvilEnemyTitan.arl
-add Foreign Input System (Recompiled)\Score\Hard\work\Act_EggmanLand\Evil_Enemy.prm.xml
-add Foreign Input System (Recompiled)\Score\Hard\work\Act_EggmanLand\EvilEnemyEggFighterC.chr.xml
-add Foreign Input System (Recompiled)\Score\Hard\work\Act_EggmanLand\EvilEnemyEggFighterG.chr.xml
-add Foreign Input System (Recompiled)\Score\Hard\work\Act_EggmanLand\EvilEnemyEggFighterK.chr.xml
-add Foreign Input System (Recompiled)\Score\Hard\work\Act_EggmanLand\EvilEnemyEggFighterL.chr.xml
-add Foreign Input System (Recompiled)\Score\Hard\work\Act_EggmanLand\EvilEnemyEggFighterR.chr.xml
-add Foreign Input System (Recompiled)\Score\Hard\work\Act_EggmanLand\EvilEnemyEggFighterS.chr.xml
-add Foreign Input System (Recompiled)\Score\Hard\work\Act_EggmanLand\EvilEnemyEggFighterST.chr.xml
-add Foreign Input System (Recompiled)\Score\Hard\work\Act_EggmanLand\EvilEnemyEggFighterW.chr.xml
-add Foreign Input System (Recompiled)\Score\Hard\work\Act_EggmanLand\EvilEnemyMasterCure.chr.xml
-add Foreign Input System (Recompiled)\Score\Hard\work\Act_EggmanLand\EvilEnemyMasterFire.chr.xml
-add Foreign Input System (Recompiled)\Score\Hard\work\Act_EggmanLand\EvilEnemyMasterLightning.chr.xml
-add Foreign Input System (Recompiled)\Score\Hard\work\Act_EggmanLand\EvilEnemyMasterPower.chr.xml
-add Foreign Input System (Recompiled)\Score\Hard\work\Act_EggmanLand\EvilEnemyMasterSpooky.chr.xml
-add Foreign Input System (Recompiled)\Score\Hard\work\Act_EggmanLand\EvilEnemyTitan.chr.xml
-add Foreign Input System (Recompiled)\Score\Hard\work\ActN_AfricaEvil\Evil_Enemy.prm.xml
-add Foreign Input System (Recompiled)\Score\Hard\work\ActN_BeachEvil\area03_enemyset.set.xml
-add Foreign Input System (Recompiled)\Score\Hard\work\ActN_BeachEvil\Evil_Enemy.prm.xml
-add Foreign Input System (Recompiled)\Score\Hard\work\ActN_ChinaEvil\area10_enemyset.set.xml
-add Foreign Input System (Recompiled)\Score\Hard\work\ActN_ChinaEvil\area17_enemyset.set.xml
-add Foreign Input System (Recompiled)\Score\Hard\work\ActN_ChinaEvil\Evil_Enemy.prm.xml
-add Foreign Input System (Recompiled)\Score\Hard\work\ActN_EUEvil\Evil_Enemy.prm.xml
-add Foreign Input System (Recompiled)\Score\Hard\work\ActN_MykonosEvil\Evil_Enemy.prm.xml
-add Foreign Input System (Recompiled)\Score\Hard\work\ActN_NYEvil\area02_enemyset.set.xml
-add Foreign Input System (Recompiled)\Score\Hard\work\ActN_NYEvil\area03_enemyset.set.xml
-add Foreign Input System (Recompiled)\Score\Hard\work\ActN_NYEvil\area06_enemyset.set.xml
-add Foreign Input System (Recompiled)\Score\Hard\work\ActN_NYEvil\Evil_Enemy.prm.xml
-add Foreign Input System (Recompiled)\Score\Hard\work\ActN_PetraEvil\Evil_Enemy.prm.xml
-add Foreign Input System (Recompiled)\Score\Hard\work\ActN_SnowEvil\area12_enemyset.set.xml
-add Foreign Input System (Recompiled)\Score\Hard\work\ActN_SnowEvil\area13_enemyset.set.xml
-add Foreign Input System (Recompiled)\Score\Hard\work\ActN_SnowEvil\area14_enemyset.set.xml
-add Foreign Input System (Recompiled)\Score\Hard\work\ActN_SnowEvil\Evil_Enemy.prm.xml
-add Foreign Input System (Recompiled)\Score\Hard\work\ActN_SubAfrica_01\Evil_Enemy.prm.xml
-add Foreign Input System (Recompiled)\Score\Hard\work\ActN_SubBeach_01\Evil_Enemy.prm.xml
-add Foreign Input System (Recompiled)\Score\Hard\work\ActN_SubChina_01\area02_enemyset.set.xml
-add Foreign Input System (Recompiled)\Score\Hard\work\ActN_SubChina_01\Evil_Enemy.prm.xml
-add Foreign Input System (Recompiled)\Score\Hard\work\ActN_SubMykonos_01\Evil_Enemy.prm.xml
-add Foreign Input System (Recompiled)\mod.ini
+add Gameplay/CTO/V1/+#Application.ar.00
+add Gameplay/CTO/V1/+#Application.arl
+add Gameplay/CTO/V2/+#Application.ar.00
+add Gameplay/CTO/V2/+#Application.arl
+add Gameplay/CTO/V3/+#Application.ar.00
+add Gameplay/CTO/V3/+#Application.arl
+add Gameplay/CTO/V3/+#EvilSonic.ar.00
+add Gameplay/CTO/V3/+#EvilSonic.arl
+add Gameplay/CTO/V3/+EvilSonic.ar.00
+add Gameplay/CTO/V3/+EvilSonic.arl
+add Gameplay/CTO/V3_Phase2/+#Application.ar.00
+add Gameplay/CTO/V3_Phase2/+#Application.arl
+add Gameplay/CTO/V3_Phase2/+#EvilSonic.ar.00
+add Gameplay/CTO/V3_Phase2/+#EvilSonic.arl
+add Gameplay/CTO/V3_Phase2/+EvilSonic.ar.00
+add Gameplay/CTO/V3_Phase2/+EvilSonic.arl
+add Gameplay/FIS/V1/+#Application.ar.00
+add Gameplay/FIS/V1/+#Application.arl
+add Gameplay/FIS/V2/+#Application.ar.00
+add Gameplay/FIS/V2/+#Application.arl
+add Gameplay/FIS/V3/+#Application.ar.00
+add Gameplay/FIS/V3/+#Application.arl
+add Gameplay/FIS/V3/+#EvilSonic.ar.00
+add Gameplay/FIS/V3/+#EvilSonic.arl
+add Gameplay/FIS/V3/+EvilSonic.ar.00
+add Gameplay/FIS/V3/+EvilSonic.arl
+add Gameplay/FIS/V3_Phase2/+#Application.ar.00
+add Gameplay/FIS/V3_Phase2/+#Application.arl
+add Gameplay/FIS/V3_Phase2/+#EvilSonic.ar.00
+add Gameplay/FIS/V3_Phase2/+#EvilSonic.arl
+add Gameplay/FIS/V3_Phase2/+EvilSonic.ar.00
+add Gameplay/FIS/V3_Phase2/+EvilSonic.arl
+add ImprovedComp/V2/+#Application.ar.00
+add ImprovedComp/V2/+#Application.arl
+add ImprovedComp/V3/+#Application.ar.00
+add ImprovedComp/V3/+#Application.arl
+add ImprovedComp/V3 (CTO)/+#Application.ar.00
+add ImprovedComp/V3 (CTO)/+#Application.arl
+add ImprovedComp/V3 P2/+#Application.ar.00
+add ImprovedComp/V3 P2/+#Application.arl
+add ImprovedComp/V3 P2 (CTO)/+#Application.ar.00
+add ImprovedComp/V3 P2 (CTO)/+#Application.arl
+add Loading/logo_sonicteam.dds
+add Movement/+#EvilSonic.ar.00
+add Movement/+#EvilSonic.arl
+add Movement/+#SystemCommon.ar.00
+add Movement/+#SystemCommon.arl
+add Font/1.0/Languages/English/+WorldMap.ar.00
+add Font/1.0/Languages/English/+WorldMap.arl
+add Font/1.0.2/Languages/English/+WorldMap.ar.00
+add Font/1.0.2/Languages/English/+WorldMap.arl
+add Font/Common/+EvilActionCommon.ar.00
+add Font/Common/+EvilActionCommon.arl
+add Font/Common/+Town_Africa_Common.ar.00
+add Font/Common/+Town_Africa_Common.arl
+add Font/Common/+Town_China_Common.ar.00
+add Font/Common/+Town_China_Common.arl
+add Font/Common/+Town_EggManBase_Common.ar.00
+add Font/Common/+Town_EggManBase_Common.arl
+add Font/Common/+Town_EuropeanCity_Common.ar.00
+add Font/Common/+Town_EuropeanCity_Common.arl
+add Font/Common/+Town_Mykonos_Common.ar.00
+add Font/Common/+Town_Mykonos_Common.arl
+add Font/Common/+Town_NYCity_Common.ar.00
+add Font/Common/+Town_NYCity_Common.arl
+add Font/Common/+Town_PetraCapital_Common.ar.00
+add Font/Common/+Town_PetraCapital_Common.arl
+add Font/Common/+Town_Snow_Common.ar.00
+add Font/Common/+Town_Snow_Common.arl
+add Font/Common/+Town_SouthEastAsia_Common.ar.00
+add Font/Common/+Town_SouthEastAsia_Common.arl
+add HE1CompressionTool.zip
+add mod.json
+add mod.ini
