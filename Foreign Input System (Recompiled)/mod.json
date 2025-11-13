@@ -1,0 +1,331 @@
+{
+    "Groups": [
+        {
+            "Name": "Main",
+            "DisplayName": "Foreign Input System",
+            "Elements": [
+                {
+                    "Name": "IncludeDir2",
+                    "DisplayName": "Version",
+                    "Description": [
+                        "Select the version of FIS MAIN or FIS CTO you wish to use."
+                    ],
+                    "Type": "Gameplay",
+                    "MinValue": null,
+                    "MaxValue": null,
+                    "DefaultValue": "./Gameplay/FIS/V3/"
+                },
+                {
+                    "Name": "IncludeDir3",
+                    "DisplayName": "Harder Enemies",
+                    "Description": [
+                        "Choose whether to enable the Harder Enemies Addon."
+                    ],
+                    "Type": "HarderEnemies",
+                    "MinValue": null,
+                    "MaxValue": null,
+                    "DefaultValue": "./Font/Dummy/"
+                },
+                {
+                    "Name": "IncludeDir4",
+                    "DisplayName": "Balanced Score",
+                    "Description": [
+                        "Choose whether to enable the Balanced Scores Addon."
+                    ],
+                    "Type": "Score",
+                    "MinValue": null,
+                    "MaxValue": null,
+                    "DefaultValue": "./Font/Dummy/"
+                },
+                {
+                    "Name": "IncludeDir5",
+                    "DisplayName": "Movement",
+                    "Description": [
+                        "Choose whether to enable improved Werehog movement (disable to use other movement mods)."
+                    ],
+                    "Type": "Movement",
+                    "MinValue": null,
+                    "MaxValue": null,
+                    "DefaultValue": "./Movement/"
+                },
+                {
+                    "Name": "IncludeDir6",
+                    "DisplayName": "Improved Progression Compatibility",
+                    "Description": [
+                        "Choose which version of FIS should receive compatibility changes, mainly the Sonic Stat requirements."
+                    ],
+                    "Type": "ImpComp",
+                    "MinValue": null,
+                    "MaxValue": null,
+                    "DefaultValue": "./Font/Dummy/"
+                },
+                {
+                    "Name": "IncludeDir7",
+                    "DisplayName": "Combo Practice Arena",
+                    "Description": [
+                        "Choose whether to enable the Combo Practice Arena."
+                    ],
+                    "Type": "ComboPracticeArena",
+                    "MinValue": null,
+                    "MaxValue": null,
+                    "DefaultValue": "./Font/Dummy/"
+                },
+                {
+                    "Name": "IncludeDir8",
+                    "DisplayName": "Do you have the DLC installed?",
+                    "Description": [
+                        "Which version of game you are using?",
+                        "",
+                        "This is for users to select the relevant option depending on whether they have the DLC or not."
+                    ],
+                    "Type": "Font",
+                    "MinValue": null,
+                    "MaxValue": null,
+                    "DefaultValue": "./Font/1.0.2/"
+                }
+            ]
+        }
+    ],
+    "Enums": {
+        "Gameplay": [
+            {
+                "DisplayName": "None",
+                "Value": "./Font/Dummy/",
+                "Description": [
+                    "Disable Foreign Input System."
+                ]
+            },
+            {
+                "DisplayName": "Version 1",
+                "Value": "./Gameplay/FIS/V1/",
+                "Description": [
+                    "Foreign Input System Version 1.\n\nIncludes combo transitions, improved score system, balanced Strength stat, balance Werehog stats, etc."
+                ]
+            },
+            {
+                "DisplayName": "Version 2",
+                "Value": "./Gameplay/FIS/V2/",
+                "Description": [
+                    "Foreign Input System Version 2.\n\nIncludes combo transitions and extensions, improved score system, balanced Strength stat, balance Werehog stats, etc."
+                ]
+            },
+            {
+                "DisplayName": "Version 3",
+                "Value": "./Gameplay/FIS/V3/",
+                "Description": [
+                    "Foreign Input System Version 3.\n\nIncludes combo transitions, extensions, beta attacks/air levels, improved score system, balanced Strength stat, balance Werehog stats, etc."
+                ]
+            },
+            {
+                "DisplayName": "Version 3: Phase 2",
+                "Value": "./Gameplay/FIS/V3_Phase2/",
+                "Description": [
+                    "Foreign Input System Version 3.\n\nIncludes combo transitions, extensions, beta attacks/air levels, fully custom combos, improved score system, balanced Strength stat, balance Werehog stats, etc."
+                ]
+            },
+            {
+                "DisplayName": "Version 1 [CTO]",
+                "Value": "./Gameplay/CTO/V1/",
+                "Description": [
+                    "Foreign Input System [Combo Transitions Only] Version 1.",
+                    "",
+                    "Combo Transitions Only is exactly as it states.\nONLY combo transitions."
+                ]
+            },
+            {
+                "DisplayName": "Version 2 [CTO]",
+                "Value": "./Gameplay/CTO/V2/",
+                "Description": [
+                    "Foreign Input System [Combo Transitions Only] Version 2.",
+                    "",
+                    "Combo Transitions Only is exactly as it states.\nONLY combo transitions and extensions."
+                ]
+            },
+            {
+                "DisplayName": "Version 3 [CTO]",
+                "Value": "./Gameplay/CTO/V3/",
+                "Description": [
+                    "Foreign Input System [Combo Transitions Only] Version 3.",
+                    "",
+                    "Combo Transitions Only is exactly as it states.\nONLY combo transitions, extensions, and beta attacks/air levels."
+                ]
+            },
+            {
+                "DisplayName": "Version 3: Phase 2 [CTO]",
+                "Value": "./Gameplay/CTO/V3_Phase2/",
+                "Description": [
+                    "Foreign Input System [Combo Transitions Only] Version 3: Phase 2.",
+                    "",
+                    "Combo Transitions Only is exactly as it states.\nONLY combo transitions, extensions, beta attacks & air levels, and fully custom combos."
+                ]
+            }
+        ],
+        "HarderEnemies": [
+            {
+                "DisplayName": "Normal",
+                "Value": "./Font/Dummy/",
+                "Description": [
+                    "Disables the Harder Enemies Addon."
+                ]
+            },
+            {
+                "DisplayName": "Hard",
+                "Value": "./HarderEnemies/Hard/",
+                "Description": [
+                    "Enables the Harder Enemies Addon, Hard Difficulty.",
+                    "",
+                    "Enhances and emboldens the intellect and aggression of the Eggman Empire and Dark Gaia's Minions, including the launch of heavier units. Engage at your own discretion.",
+					"NOT COMPATIBLE WITH COMBO PRACTICE ARENA OR BALANCED SCORE ADDON"
+                ]
+            },
+            {
+                "DisplayName": "Expert",
+                "Value": "./HarderEnemies/Expert/",
+                "Description": [
+                    "Enables the Harder Enemies Addon, Expert Difficulty.",
+                    "",
+                    "Enhances and emboldens the intellect and aggression of the Eggman Empire and Dark Gaia's Minions, including the launch of heavier units. Engage at your own discretion.",
+                    "",
+                    "There is also increased Strength, Health, EXP Drops, Enemy Aggression, DLC Enemy Adjustments, etc. COMBO TRANSITIONS ONLY IS HIGHLY RECOMMENDED FOR DLC STAGES!",
+					"NOT COMPATIBLE WITH COMBO PRACTICE ARENA OR BALANCED SCORE ADDON"
+                ]
+            }
+        ],
+        "Score": [
+            {
+                "DisplayName": "Disabled",
+                "Value": "./Font/Dummy/",
+                "Description": [
+                    "Reverts to normal combo score system."
+                ]
+            },
+            {
+                "DisplayName": "Enabled (Normal)",
+                "Value": "./Score/Enhanced/",
+                "Description": [
+                    "Balances the Hit Counter by increases the score and dark gaia orbs to reward the player for maintaining combo chains.",
+                    "",
+                    "Critical Attack (QTE) Scores are decreased by a significant amount (except for minibosses), making Critical Attacks a last resort or tactical bonus for S-Ranks",
+					"NOT COMPATIBLE WITH COMBO PRACTICE ARENA OR HARDER ENEMIES ADDON"
+                ]
+            },
+            {
+                "DisplayName": "Enabled (Hard)",
+                "Value": "./Score/Hard/",
+                "Description": [
+                    "Enables the Harder Enemies Addon, Hard Difficulty, with balanced Hit Counter and Critical Attack (QTE) Scores.",
+                    "",
+                    "Additionally, there's also higher rank to some of the main stages only (except for Eggmanland, Windmill Isle, and Rooftop Run Night)",
+					"NOT COMPATIBLE WITH COMBO PRACTICE ARENA OR HARDER ENEMIES ADDON"
+                ]
+            },
+            {
+                "DisplayName": "Enabled (Expert)",
+                "Value": "./Score/Expert/",
+                "Description": [
+                    "Enables the Harder Enemies Addon, Expert Difficulty, with balanced Hit Counter and Critical Attack (QTE) Scores.",
+                    "",
+                    "Additionally, there's also higher rank to some of the main stages only (except for Eggmanland, Windmill Isle, and Rooftop Run Night)",
+					"NOT COMPATIBLE WITH COMBO PRACTICE ARENA OR HARDER ENEMIES ADDON"
+                ]
+            }
+        ],
+        "Movement": [
+            {
+                "DisplayName": "Enabled",
+                "Value": "./Movement/",
+                "Description": [
+                    "Enables improvemed Movement for the Werehog, such as:",
+                    "",
+                    "Faster dashes, higher jumps, tighter movement when platforming, etc."
+                ]
+            },
+            {
+                "DisplayName": "Disabled",
+                "Value": "./Font/Dummy/",
+                "Description": [
+                    "Disables improvemed Movement for the Werehog (Do this when enabling other movement mods)."
+                ]
+            }
+        ],
+        "ImpComp": [
+            {
+                "DisplayName": "None",
+                "Value": "./Font/Dummy/",
+                "Description": [
+                    "Disable compatibility changes."
+                ]
+            },
+            {
+                "DisplayName": "Version 2",
+                "Value": "./ImprovedComp/V2/",
+                "Description": [
+                    "Foreign Input System Version 2."
+                ]
+            },
+            {
+                "DisplayName": "Version 3",
+                "Value": "./ImprovedComp/V3/",
+                "Description": [
+                    "Foreign Input System Version 3."
+                ]
+            },
+            {
+                "DisplayName": "Version 3 [CTO]",
+                "Value": "./ImprovedComp/V3 (CTO)/",
+                "Description": [
+                    "Foreign Input System [Combo Transitions Only] Version 3."
+                ]
+            },
+            {
+                "DisplayName": "Version 3, Phase 2",
+                "Value": "./ImprovedComp/V3 P2/",
+                "Description": [
+                    "Foreign Input System Version 3."
+                ]
+            },
+            {
+                "DisplayName": "Version 3, Phase 2 [CTO]",
+                "Value": "./ImprovedComp/V3 P2 (CTO)/",
+                "Description": [
+                    "Foreign Input System [Combo Transitions Only] Version 3."
+                ]
+            }
+        ],
+        "ComboPracticeArena": [
+            {
+                "DisplayName": "Enabled",
+                "Value": "./ComboPracticeArena/",
+                "Description": [
+                    "Enables the Combo Practice Arena.",
+                    "",
+                    "This replaces Dragon Road Act 2."
+                ]
+            },
+            {
+                "DisplayName": "Disabled",
+                "Value": "./Font/Dummy/",
+                "Description": [
+                    "Disables the Combo Practice Arena."
+                ]
+            }
+        ],
+        "Font": [
+            {
+                "DisplayName": "Yes",
+                "Value": "./Font/1.0.2/",
+                "Description": [
+                    "This fixes the text for users with the DLC."
+                ]
+            },
+            {
+                "DisplayName": "No",
+                "Value": "./Font/1.0/",
+                "Description": [
+                    "This fixes the text for users without the DLC."
+                ]
+            }
+        ]
+    },
+    "IniFile": "mod.ini"
+}
