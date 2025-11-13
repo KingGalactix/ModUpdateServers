@@ -100,7 +100,7 @@ add HarderEnemies/Hard/work/ActN_ChinaEvil/area17_enemyset.set.xml
 add HarderEnemies/Hard/work/ActN_ChinaEvil/Evil_Enemy.prm.xml
 add HarderEnemies/Hard/work/ActN_EUEvil/Evil_Enemy.prm.xml
 add HarderEnemies/Hard/work/ActN_MykonosEvil/Evil_Enemy.prm.xml
-add HarderEnemies/Hard/work/ActN_NYEvil/area02_enemyset.set.xml
+delete HarderEnemies/Hard/work/ActN_NYEvil/area02_enemyset.set.xml
 add HarderEnemies/Hard/work/ActN_NYEvil/area03_enemyset.set.xml
 add HarderEnemies/Hard/work/ActN_NYEvil/area06_enemyset.set.xml
 add HarderEnemies/Hard/work/ActN_NYEvil/Evil_Enemy.prm.xml
@@ -167,7 +167,7 @@ add HarderEnemies/Expert/work/ActN_ChinaEvil/area17_enemyset.set.xml
 add HarderEnemies/Expert/work/ActN_ChinaEvil/Evil_Enemy.prm.xml
 add HarderEnemies/Expert/work/ActN_EUEvil/Evil_Enemy.prm.xml
 add HarderEnemies/Expert/work/ActN_MykonosEvil/Evil_Enemy.prm.xml
-add HarderEnemies/Expert/work/ActN_NYEvil/area02_enemyset.set.xml
+delete HarderEnemies/Expert/work/ActN_NYEvil/area02_enemyset.set.xml
 add HarderEnemies/Expert/work/ActN_NYEvil/area03_enemyset.set.xml
 add HarderEnemies/Expert/work/ActN_NYEvil/area06_enemyset.set.xml
 add HarderEnemies/Expert/work/ActN_NYEvil/Evil_Enemy.prm.xml
@@ -230,7 +230,7 @@ add Score/Hard/work/ActN_ChinaEvil/area17_enemyset.set.xml
 add Score/Hard/work/ActN_ChinaEvil/Evil_Enemy.prm.xml
 add Score/Hard/work/ActN_EUEvil/Evil_Enemy.prm.xml
 add Score/Hard/work/ActN_MykonosEvil/Evil_Enemy.prm.xml
-add Score/Hard/work/ActN_NYEvil/area02_enemyset.set.xml
+delete Score/Hard/work/ActN_NYEvil/area02_enemyset.set.xml
 add Score/Hard/work/ActN_NYEvil/area03_enemyset.set.xml
 add Score/Hard/work/ActN_NYEvil/area06_enemyset.set.xml
 add Score/Hard/work/ActN_NYEvil/Evil_Enemy.prm.xml
@@ -299,7 +299,7 @@ add Score/Expert/work/ActN_ChinaEvil/area17_enemyset.set.xml
 add Score/Expert/work/ActN_ChinaEvil/Evil_Enemy.prm.xml
 add Score/Expert/work/ActN_EUEvil/Evil_Enemy.prm.xml
 add Score/Expert/work/ActN_MykonosEvil/Evil_Enemy.prm.xml
-add Score/Expert/work/ActN_NYEvil/area02_enemyset.set.xml
+delete Score/Expert/work/ActN_NYEvil/area02_enemyset.set.xml
 add Score/Expert/work/ActN_NYEvil/area03_enemyset.set.xml
 add Score/Expert/work/ActN_NYEvil/area06_enemyset.set.xml
 add Score/Expert/work/ActN_NYEvil/Evil_Enemy.prm.xml
