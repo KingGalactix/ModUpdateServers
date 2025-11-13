@@ -30,6 +30,18 @@ add Gameplay/FIS/V3_Phase2/+#EvilSonic.ar.00
 add Gameplay/FIS/V3_Phase2/+#EvilSonic.arl
 add Gameplay/FIS/V3_Phase2/+EvilSonic.ar.00
 add Gameplay/FIS/V3_Phase2/+EvilSonic.arl
+add ComboPracticeArena//Packed/ActN_SubChina_01/Stage.pfd
+add ComboPracticeArena/#ActN_SubChina_01.ar.00
+add ComboPracticeArena/#ActN_SubChina_01.arl
+add ComboPracticeArena/ActN_SubChina_01.ar.00
+add ComboPracticeArena/ActN_SubChina_01.ar.01
+add ComboPracticeArena/ActN_SubChina_01.ar.02
+add ComboPracticeArena/ActN_SubChina_01.ar.03
+add ComboPracticeArena/ActN_SubChina_01.arl
+add ComboPracticeArena/Additional GIs and Lighting.z01
+add ComboPracticeArena/Additional GIs and Lighting.z02
+add ComboPracticeArena/Additional GIs and Lighting.zip
+add ComboPracticeArena/README.txt
 add ImprovedComp/V2/+#Application.ar.00
 add ImprovedComp/V2/+#Application.arl
 add ImprovedComp/V3/+#Application.ar.00
@@ -69,7 +81,6 @@ add Font/Common/+Town_Snow_Common.ar.00
 add Font/Common/+Town_Snow_Common.arl
 add Font/Common/+Town_SouthEastAsia_Common.ar.00
 add Font/Common/+Town_SouthEastAsia_Common.arl
-add HE1CompressionTool.zip
 add HarderEnemies/Hard/+#EvilActionCommon.ar.00
 add HarderEnemies/Hard/+#EvilActionCommon.arl
 add HarderEnemies/Hard/+#EvilEnemyBigMother.ar.00
@@ -327,5 +338,6 @@ add Score/Expert/work/Act_EggmanLand/EvilEnemyMasterPower.chr.xml
 add Score/Expert/work/Act_EggmanLand/EvilEnemyMasterSpooky.chr.xml
 add Score/Expert/work/Act_EggmanLand/EvilEnemyTitan.chr.xml
 add Score/Expert/work/Act_EggmanLand/Evil_Enemy.prm.xml
+add HE1CompressionTool.zip
 add mod.json
 add mod.ini
