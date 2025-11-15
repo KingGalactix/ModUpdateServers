@@ -110,7 +110,7 @@
                 ]
             },
             {
-                "DisplayName": "Version 3",
+                "DisplayName": "Version 3: Phase 1",
                 "Value": "./Gameplay/FIS/V3/",
                 "Description": [
                     "Foreign Input System Version 3.\n\nIncludes combo transitions, extensions, beta attacks/air levels, improved score system, balanced Strength stat, balance Werehog stats, etc."
@@ -142,7 +142,7 @@
                 ]
             },
             {
-                "DisplayName": "Version 3 [CTO]",
+                "DisplayName": "Version 3: Phase 1 [CTO]",
                 "Value": "./Gameplay/CTO/V3/",
                 "Description": [
                     "Foreign Input System [Combo Transitions Only] Version 3.",
