@@ -33,6 +33,8 @@ add Gameplay/FIS/V3_Phase2/+EvilSonic.arl
 add ComboPracticeArena//Packed/ActN_SubChina_01/Stage.pfd
 add ComboPracticeArena/#ActN_SubChina_01.ar.00
 add ComboPracticeArena/#ActN_SubChina_01.arl
+add ComboPracticeArena/+WorldMap.ar.00
+add ComboPracticeArena/+WorldMap.arl
 add ComboPracticeArena/ActN_SubChina_01.ar.00
 add ComboPracticeArena/ActN_SubChina_01.ar.01
 add ComboPracticeArena/ActN_SubChina_01.ar.02
