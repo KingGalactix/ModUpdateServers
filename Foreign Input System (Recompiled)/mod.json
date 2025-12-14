@@ -70,8 +70,21 @@
                     "MaxValue": null,
                     "DefaultValue": "./Font/Dummy/"
                 },
-                {
+				{
                     "Name": "IncludeDir8",
+                    "DisplayName": "Collectibles",
+                    "Description": [
+                        "Would you like to find useful and fun collectibles, including Training Tapes for Foreign Input System?",
+                        "",
+                        "WARNING! DO NOT USE THIS ON AN EXISTING SAVE, AS IT WILL CORRUPT THE SAVE FILE DATA"
+                    ],
+                    "Type": "Collectibles",
+                    "MinValue": null,
+                    "MaxValue": null,
+                    "DefaultValue": "./Font/Dummy/"
+                },
+                {
+                    "Name": "IncludeDir9",
                     "DisplayName": "Do you have the DLC installed?",
                     "Description": [
                         "Which version of game you are using?",
@@ -232,19 +245,20 @@
         ],
         "Movement": [
             {
-                "DisplayName": "Enabled",
-                "Value": "./Movement/",
-                "Description": [
-                    "Enables improvemed Movement for the Werehog, such as:",
-                    "",
-                    "Faster dashes, higher jumps, tighter movement when platforming, etc."
-                ]
-            },
-            {
                 "DisplayName": "Disabled",
                 "Value": "./Font/Dummy/",
                 "Description": [
                     "Disables improvemed Movement for the Werehog (Do this when enabling other movement mods)."
+                ]
+            },
+            {
+                "DisplayName": "Enabled",
+                "Value": "./Movement/",
+                
+				"Description": [
+                    "Enables improvemed Movement for the Werehog, such as:",
+                    "",
+                    "Faster dashes, higher jumps, tighter movement when platforming, etc."
                 ]
             }
         ],
@@ -307,6 +321,24 @@
                 "Value": "./Font/Dummy/",
                 "Description": [
                     "Disables the Combo Practice Arena."
+                ]
+            }
+        ],
+		"Collectibles": [
+            {
+                "DisplayName": "Yes",
+                "Value": "./Collectibles/",
+                "Description": [
+                    "Enables the collectibles, including training tapes for players to learn the mod's mechanics.",
+					"",
+					"MAKE SURE TO USE A NEW SAVE BECAUSE, WHEN THIS OPTION IS ENABLED, IT WILL CORRUPT EXISTING SAVES!"
+                ]
+            },
+            {
+                "DisplayName": "No",
+                "Value": "./Font/Dummy/",
+                "Description": [
+                    "Disables the collectibles"
                 ]
             }
         ],
