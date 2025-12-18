@@ -1,3 +1,8 @@
+## Foreign Input System: Ver3.5.2 Patch
+- Deleted HE1CompressionTools.zip
+- Deleted unused or extra files
+- Added visible names to Training Tapes when accessing TV.
+
 ## Foreign Input System: Ver3.5.1 Patch
 - Fixed certain combo issues, such as Anterior Strike not working in Unleashed mode or Hailstorm not landing hits on enemies
 - Fixed level-up issues and re-organized the skills menu.
