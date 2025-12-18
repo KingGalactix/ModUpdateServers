@@ -1,6 +1,10 @@
 delete Movement\+#EvilSonic.arl
 delete Movement\+#EvilSonic.ar.00
 delete HE1CompressionTool.zip
+delete HE1CompressionTool.exe
+delete Decompress.bat
+delete GensCompress.bat
+delete UnleashedCompress.bat
 delete Gameplay\FIS\V3_Phase2\+#Application
 delete Gameplay\CTO\V3_Phase2\+#Application
 delete ComboPracticeArena\README.txt
