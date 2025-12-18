@@ -1,6 +1,6 @@
 ## Foreign Input System: Ver3.5.2 Patch
 - Deleted HE1CompressionTools.zip
-- Deleted unused or extra files
+- Deleted unused or extra files that intrudes with gameplay.
 - Added visible names to Training Tapes when accessing TV.
 
 ## Foreign Input System: Ver3.5.1 Patch
