@@ -1,1 +1,0 @@
-Just unzip the main zip, and the Packed Folder will appear
