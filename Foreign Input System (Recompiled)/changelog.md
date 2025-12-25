@@ -1,3 +1,7 @@
+## Update Notice:
+Due to me messing up the update server for patch 3.5.2, I ask that you all download the mod from the Gamebanana page itself.
+Whenever the next patch is added, everything should work as intended.
+
 ## Foreign Input System: Ver3.5.2 Patch
 - Deleted HE1CompressionTools.zip
 - Deleted unused or extra files that intrudes with gameplay.
