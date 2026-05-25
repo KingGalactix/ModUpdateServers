@@ -60,10 +60,10 @@
                     "DefaultValue": "./Font/Dummy/"
                 },
                 {
-                    "Name": "IncludeDir0",
+                    "Name": "IncludeDir7",
                     "DisplayName": "Combo Practice Arena",
                     "Description": [
-                        "The Combat Practice Arena was ported from StarlightDX's\n\"Like a Werehog: Extreme Fury\" mod, allowing players to practice the unique combos in Foreign Input System.\n\nChoose whether to enable the Combo Practice Arena."
+                        "Choose whether to enable the Combo Practice Arena."
                     ],
                     "Type": "ComboPracticeArena",
                     "MinValue": null,
@@ -71,7 +71,7 @@
                     "DefaultValue": "./Font/Dummy/"
                 },
 				{
-                    "Name": "IncludeDir7",
+                    "Name": "IncludeDir8",
                     "DisplayName": "Collectibles",
                     "Description": [
                         "Would you like to find useful and fun collectibles, including Training Tapes for Foreign Input System?",
@@ -84,7 +84,7 @@
                     "DefaultValue": "./Font/Dummy/"
                 },
                 {
-                    "Name": "IncludeDir8",
+                    "Name": "IncludeDir9",
                     "DisplayName": "Do you have the DLC installed?",
                     "Description": [
                         "Which version of game you are using?",
